@@ -1,0 +1,4 @@
+/home/alex/data/datasets/dataset1/test/selected_08_07_frame11682.jpg
+/home/alex/data/datasets/dataset1/test/selected_08_09_frame8460.jpg
+/home/alex/data/datasets/dataset1/test/extra_kayak_axis0108.jpg
+/home/alex/data/datasets/dataset1/test/selected_08_09_frame7690.jpg

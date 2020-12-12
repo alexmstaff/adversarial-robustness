@@ -1,0 +1,5 @@
+classes = 2
+train = /home/simenvg/data/model/train.txt
+valid = /home/simenvg/data/model/test.txt
+names = /home/alex/PycharmProjects/pythonProject/model/classes.names
+backup = /home/simenvg/data/model/backup/
